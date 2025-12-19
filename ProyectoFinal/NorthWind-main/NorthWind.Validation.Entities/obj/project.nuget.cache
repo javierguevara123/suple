@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e9spbzedto4=",
+  "dgSpecHash": "jbkS5ZS/1iE=",
   "success": true,
-  "projectFilePath": "D:\\SUPLETORIO\\PROYECTO\\ProyectoFinal\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\promovig\\suple\\ProyectoFinal\\NorthWind-main\\NorthWind.Validation.Entities\\NorthWind.Validation.Entities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\belen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
   ],
   "logs": []
 }
