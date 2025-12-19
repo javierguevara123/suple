@@ -1,0 +1,10 @@
+# Ignorar carpetas temporales de Visual Studio (CRITICO)
+.vs/
+**/bin/
+**/obj/
+
+# Ignorar archivos de usuario específicos
+*.user
+
+# Ignorar appsettings con secretos (Lo que pediste antes)
+**/appsettings.json

@@ -1,0 +1,7 @@
+POST http://northwindweb.somee.com/user/Login
+Content-Type: application/json
+
+{
+  "email": "superuser@northwind.com",
+  "password": "SuperUser123!"
+}
