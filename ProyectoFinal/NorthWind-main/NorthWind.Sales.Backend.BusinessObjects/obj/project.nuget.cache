@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCwBgb94qDs=",
+  "success": true,
+  "projectFilePath": "D:\\SUPLETORIO\\PROYECTO\\ProyectoFinal\\NorthWind-main\\NorthWind.Sales.Backend.BusinessObjects\\NorthWind.Sales.Backend.BusinessObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
